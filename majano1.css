@@ -21,7 +21,7 @@ nav{
 
 .navbar{
     background-color: black;
-    height: 500px;
+    height: auto;
 }
 h1{
     color: #E7E4D7;
