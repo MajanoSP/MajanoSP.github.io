@@ -17,18 +17,11 @@ nav{
     flex-direction: column;
     
 }
-a{
-    font-size: 0.5cm;
-    display: flex;
-    justify-content: center;
-    text-decoration: none;
-    color: white;
-    font-weight: bold;   
-}
+
 
 .navbar{
     background-color: black;
-    height: 320px;
+    height: 500px;
 }
 h1{
     color: #E7E4D7;
