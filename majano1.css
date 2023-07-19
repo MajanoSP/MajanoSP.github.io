@@ -82,7 +82,7 @@ h1{
     .navbar{
         display: flex;
         flex-direction: column;
-        background-image: url("black.png");
+        background-image: url("black2.png");
         background-size: contain;
         background-repeat: no-repeat;
         justify-content: space-around;
